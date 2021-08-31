@@ -5,4 +5,5 @@ const sequelize = new Sequelize({
   host: './dev.sqlite'
 })
 
+
 module.exports = sequelize;
